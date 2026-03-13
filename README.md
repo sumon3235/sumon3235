@@ -41,5 +41,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumon3235&layout=compact&theme=radical)
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/md-rifat-bin-sumon-0960843b7/)
-📫 **Connect with me:** [LinkedIn](https://www.facebook.com/share/1KT9QP1y7g/)
+
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-rifat-bin-sumon-0960843b7/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/share/1KT9QP1y7g/)
